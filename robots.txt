@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://means-test.openbankruptcyproject.org/sitemap.xml
